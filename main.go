@@ -45,7 +45,7 @@ func isEmpty() bool {
 
 func initialize(n int) string {
 
-	if n_loker == 0 {
+	if n == 0 {
 		return "Harus lebih dari 0"
 	}
 
